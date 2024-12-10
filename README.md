@@ -5,7 +5,7 @@ Inspired by Duolingo's language lessons, I created an app that allows me to take
 
 [Figma design by me](https://www.figma.com/design/mTmVQjJffWs7gyRKGaor7c/_Psychometrics?node-id=0-1&t=kKlOWvk8vrhuFspa-1)
 
-##Screenshots<br>
+## Screenshots<br>
 <img width="320" alt="0" src="https://github.com/kuntito/Psychometrics/assets/106985013/3c7520b6-4589-487e-b821-2ee77c4f02b1"><span>&nbsp;</span><span>&nbsp;</span>
 <img width="320" alt="1" src="https://github.com/kuntito/Psychometrics/assets/106985013/a3e0ae62-ad37-4d6a-8001-3acef63fb145"><span>&nbsp;</span><span>&nbsp;</span>
 <img width="320" alt="2" src="https://github.com/kuntito/Psychometrics/assets/106985013/e5ac072a-1cf6-4424-8f72-bbe07b8f4794"><span>&nbsp;</span><span>&nbsp;</span>
